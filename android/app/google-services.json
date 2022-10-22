@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "929290831216",
+    "project_id": "task-app-825fa",
+    "storage_bucket": "task-app-825fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929290831216:android:9319f8c59b7fb232083bb5",
+        "android_client_info": {
+          "package_name": "live.rahimli.task_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929290831216-cbvmt4lp3f220q82bl1qu1u53ksfn388.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASw3QIhfhOBez_dh3vJYjlORHA0DfhmII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929290831216-cbvmt4lp3f220q82bl1qu1u53ksfn388.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

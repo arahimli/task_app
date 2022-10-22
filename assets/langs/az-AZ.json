@@ -1,0 +1,59 @@
+{
+  "general__list__empty_message": "Data Yoxdur",
+  "general__close_button_text": "Bağla",
+  "general__loading_text": "İcra Edilir...",
+  "general_form_is_not_valid__title": "Form düzgün doldurulmayıb",
+  "error_went_wrong": "Xəta baş verdi, Yenidən cəhd edin",
+  "internet_connection_error": "İnternet bağlantısında problem var, Yenidən cəhd edin",
+
+  "main_page__register_button_text": "Qeydiyyat",
+  "main_page__login_button_text": "Giriş",
+
+
+  "home_page__title": "Müraciətlərim",
+
+  "appeal_form_page__title": "Müraciət Formu",
+
+  "appeal_form_page__field__title_label": "Başlıq",
+  "appeal_form_page__field__title_hint": "Başlıq",
+  "appeal_form_page__field__title_error_text": "Başlıq boş ola bilməz",
+  "appeal_form_page__field__short_description_label": "Qısa təsvir",
+  "appeal_form_page__field__short_description_hint": "Qısa təsvir",
+  "appeal_form_page__field__short_description_error_text": "Qısa təsvir boş ola bilməz",
+  "appeal_form_page__field__content_label": "Kontent",
+  "appeal_form_page__field__content_hint": "Kontent",
+  "appeal_form_page__field__content_error_text": "Kontent təsvir boş ola bilməz",
+  "appeal_form_page__field__success_message": "Müraciət formunuz göndərildi",
+  "appeal_form_page__field__error_message": "Xəta baş verdi, yenidən cəhd edin",
+  "appeal_form_page__field__submit_button_text": "Göndər",
+
+
+  "login_form_page__title": "Giriş",
+
+  "login_form_page__field__email_label": "Email",
+  "login_form_page__field__email_hint": "Email",
+  "login_form_page__field__email_error_text": "Email formatı info@example.com",
+
+  "login_form_page__field__password_label": "Şifrə",
+  "login_form_page__field__password_hint": "Şifrə",
+  "login_form_page__field__password_error_text": "Şifrə 8 xarakter və daha artıq",
+
+  "login_form_page__field__submit_button_text": "Giriş",
+
+
+  "sign_up_form_page__title": "Qeydiyyat",
+
+  "sign_up_form_page__field__full_name_label": "Tam ad",
+  "sign_up_form_page__field__full_name_hint": "Tam ad",
+  "sign_up_form_page__field__full_name_error_text": "Tam formatı Ali Valiyev",
+
+  "sign_up_form_page__field__email_label": "Email",
+  "sign_up_form_page__field__email_hint": "Email",
+  "sign_up_form_page__field__email_error_text": "Email formatı info@example.com",
+
+  "sign_up_form_page__field__password_label": "Şifrə",
+  "sign_up_form_page__field__password_hint": "Şifrə",
+  "sign_up_form_page__field__password_error_text": "Şifrə 8 xarakter və daha artıq",
+
+  "sign_up_form_page__field__submit_button_text": "Qeydiyyat"
+}

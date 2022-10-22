@@ -1,0 +1,59 @@
+{
+  "general__list__empty_message": "No Data",
+  "general__close_button_text": "Close",
+  "general__loading_text": "Loading...",
+  "general_form_is_not_valid__title": "Form is not valid",
+  "error_went_wrong": "Error occurred, Try again",
+  "internet_connection_error": "There is a problem on your internet connection, please try again",
+
+  "main_page__register_button_text": "Registration",
+  "main_page__login_button_text": "Login",
+
+
+  "home_page__title": "My appeals",
+
+  "appeal_form_page__title": "Application Form",
+
+  "appeal_form_page__field__title_label": "Title",
+  "appeal_form_page__field__title_hint": "Type title",
+  "appeal_form_page__field__title_error_text": "Title cannot be empty",
+  "appeal_form_page__field__short_description_label": "Type short description",
+  "appeal_form_page__field__short_description_hint": "Short description",
+  "appeal_form_page__field__short_description_error_text": "Short description cannot be empty",
+  "appeal_form_page__field__content_label": "Content",
+  "appeal_form_page__field__content_hint": "Content",
+  "appeal_form_page__field__content_error_text": "Content cannot be empty",
+  "appeal_form_page__field__success_message": "Your request has been sent",
+  "appeal_form_page__field__error_message": "Error occurred, Try again",
+  "appeal_form_page__field__submit_button_text": "Submit",
+
+
+  "login_form_page__title": "Login",
+
+  "login_form_page__field__email_label": "Email",
+  "login_form_page__field__email_hint": "Type email",
+  "login_form_page__field__email_error_text": "Email format: info@example.com",
+
+  "login_form_page__field__password_label": "Password",
+  "login_form_page__field__password_hint": "Type password",
+  "login_form_page__field__password_error_text": "The length of the password cannot be less than 8",
+
+  "login_form_page__field__submit_button_text": "Login",
+
+
+  "sign_up_form_page__title": "Registration",
+
+  "sign_up_form_page__field__full_name_label": "Full name",
+  "sign_up_form_page__field__full_name_hint": "Type full name",
+  "sign_up_form_page__field__full_name_error_text": "Name format: Ali Valiyev",
+
+  "sign_up_form_page__field__email_label": "Email",
+  "sign_up_form_page__field__email_hint": "Type email",
+  "sign_up_form_page__field__email_error_text": "Email format: info@example.com",
+
+  "sign_up_form_page__field__password_label": "Password",
+  "sign_up_form_page__field__password_hint": "Type password",
+  "sign_up_form_page__field__password_error_text": "The length of the password cannot be less than 8",
+
+  "sign_up_form_page__field__submit_button_text": "Register"
+}
